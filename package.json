@@ -2,7 +2,7 @@
   "name": "filmoteka-team-project",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Alla-Goptsii/filmoteka-team-project.git",
+  "homepage": "https://github.com/Alla-Goptsii/filmoteka-team-project#readme",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-team-project/"
@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mariana-Diachun/filmoteka-team-project/issues"
+    "url": "https://github.com/Alla-Goptsii/filmoteka-team-project/issues"
   },
   "dependencies": {
     "axios": "^0.27.2",

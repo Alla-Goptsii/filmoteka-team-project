@@ -2,14 +2,14 @@
   "name": "filmoteka-team-project",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Mariana-Diachun/filmoteka-team-project#readme",
+  "homepage": "https://github.com/Alla-Goptsii/filmoteka-team-project.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mariana-Diachun/filmoteka-team-project.git"
+    "url": "git+https://github.com/Alla-Goptsii/filmoteka-team-project.git"
   },
   "keywords": [],
   "author": "",
@@ -32,5 +32,6 @@
     "posthtml-include": "^1.7.4",
     "process": "^0.11.10"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "index.js"
 }
